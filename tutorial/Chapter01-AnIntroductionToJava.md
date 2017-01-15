@@ -39,11 +39,16 @@
 <li>The single biggest difference between Java and C/C++ is that Java has a pointer model that eliminates (/i'limineit/loại ra, loại trừ) the possibility of overwriting memory and corrupting data</li>
 <li>Java compiler detects many problems that in other languages would show up only at runtimes</li>
 <li>At the second point, anyone who has spent hours chasing memory corruption caused by a pointer bug will be very happy with this aspect of Java</li>
-
-<li></li>
 </ul>
 
 > 1.2.5. Secure
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 > 1.2.6. Architecture-Nleutral
 > 1.2.7. Portable
 > 1.2.8. Interpreted
@@ -64,3 +69,4 @@
 <li></li>
 <li></li>
 </ul>
+#

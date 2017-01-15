@@ -18,13 +18,15 @@ EE = Enterprise Edition
 > -Java EE là bao gồm các kỹ thuật lập trình hướng web và trên các môi trường doanh nghiệp, tuy nhiên dù phức tạp đến chừng nào thì tất cả vẫn base nên nội lực Java SE
 chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nhanh
 
-**Note:** 
+
 ##Chúng ta có 3 IDE chính để chạy Java##
     --------------------
     |NO | IDE          |
     |---|---------------
 	|1. |Eclipse       |
+    |---|---------------
 	|2. |NetBeans      |
+    |---|---------------
 	|3. |IntelliJ IDEA |
 	--------------------
 	
@@ -37,6 +39,8 @@ Bản JavaSE của IntellJ thì free
 IDE là tool để hỗ trợ lập trình Java trực quan hơn
 còn về bản chất có thể dùng notepad hoặc console để soạn thảo code java cũng được
 
+##Source code chúng ta sẽ dev dùng các IDE nêu trên sau đó push source lên github##
+
 > -Chúng ta sẽ bắt đầu tìm hiểu vào các chiều thứ Bảy
 từ 2h - 5h
 nội dung xoay quanh các thắc mắc về chương đã đọc trong tuần
@@ -46,9 +50,6 @@ nộp qua github
 
 > -Mỗi người nên là 1 account git
 để sau này có thể tự mình review lại chặng đường mình đã đi qua
-
-
-##Source code chúng ta sẽ dev dùng các IDE nêu trên sau đó push source lên github##
 
 > -Thứ Bảy tuần sau là trả bài chương 1, chương 2 nha các bạn
 21/1/2017: trả bài chương 1, 2

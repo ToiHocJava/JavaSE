@@ -22,7 +22,7 @@
 <ul>
 <li>Thiết kế hướng đối tượng là kỹ thuật lập trình hướng trọng tâm vào data (objects) và interfaces của object</li>
 <li>Đặc điểm OO của Java tương đương với khái niệm OO của C++</li>
-<li>Sự khác biệt lớn nhất giữa Java và C++ ở chỗ  "multiple inheritance", Java đã đổi bằng khái niệm đơn giản hơn - #Interface#</li>
+<li>Sự khác biệt lớn nhất giữa Java và C++ ở chỗ  "multiple inheritance", Java đã đổi bằng khái niệm đơn giản hơn - **Interface** </li>
 </ul>
 
 > 3. Distributed

@@ -19,23 +19,13 @@ EE = Enterprise Edition
 chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nhanh
 
 
-##Chúng ta có 3 IDE chính để chạy Java##
+**Chúng ta có 3 IDE chính để chạy Java**
 
-NO | IDE           
+NO | IDE             
 ---|-----------------
- 1 |Eclipse       
- 2 |NetBeans      
- 3 |IntelliJ IDEA 
-
-
-**Markdown Extra** has a special syntax for tables:
-
-Item     | Value
--------- | ---
-Computer | $1600
-Phone    | $12
-Pipe     | $1
-
+ 1 |[Eclipse](https://eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/2/eclipse-java-neon-2-win32-x86_64.zip)      
+ 2 |[NetBeans] (http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-javase-windows.exe)
+ 3 |[IntelliJ IDEA] (https://download.jetbrains.com/idea/ideaIU-2016.3.2.win.zip)
 
 
 Đa phần công ty outsource xài Eclipse

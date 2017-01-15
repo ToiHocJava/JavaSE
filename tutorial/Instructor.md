@@ -20,11 +20,14 @@ chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nha
 
 
 ##Chúng ta có 3 IDE chính để chạy Java##
-------------------
-|NO | IDE        |
-------------------
+
+--------------------
+|NO | IDE          |
+--------------------
 | 1 |Eclipse       |
+--------------------
 | 2 |NetBeans      |
+--------------------
 | 3 |IntelliJ IDEA |
 --------------------
 	

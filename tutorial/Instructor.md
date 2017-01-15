@@ -1,4 +1,4 @@
-nguyên tắc đầu tiên khi học lập trình
+NGUYÊN TẮC ĐẦU TIÊN KHI HỌC LẬP TRÌNH
 =====================================
 HỌC TƯ DUY, KHÔNG HỌC CODE
 code là muôn hình vạn trạng

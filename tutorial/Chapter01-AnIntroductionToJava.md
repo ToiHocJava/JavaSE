@@ -15,8 +15,8 @@
   
 **1.2 The java "White Paper" Buzzwords:**
 > 1. Simple
-> Chúng tôi muốn build 1 hệ thống có thể được lập trình dễ dàng. Chúng tôi thấy rằng C++ không phù hợp, chúng tôi đã thiết kế ra Java từ việc tham khảo C++.
-> Cấu trúc của Java phải rõ ràng, ko cần "header files, pointer, structures, unions, operator overloading, virtual base classes,.."
+> -Chúng tôi muốn build 1 hệ thống có thể được lập trình dễ dàng. Chúng tôi thấy rằng C++ không phù hợp, chúng tôi đã thiết kế ra Java từ việc tham khảo C++.
+> -Cấu trúc của Java phải rõ ràng, ko cần "header files, pointer, structures, unions, operator overloading, virtual base classes,.."
 > 2. Object-Oriented
 > 3. Distributed
 > 4. Robust

@@ -71,24 +71,56 @@
 <li>Binary data is stored and transmitted in a fixed format, eliminating confusion about byte odering.</li>
 <li>Strings are saved in a standard Unicode format</li>
 <li>The libraries that are a part of the system define PORTABLE INTERFACE</li>
-<li>Java libraries do a greate job of letting you work in a PLATFORM-INDEPENDENT manner. You can work with files, REgular eXpression, XML, dates and times, databases, network connections, threads, etc without worrying about the underlying OS.</li>
+<li>Java libraries do a greate job of letting you work in a PLATFORM-INDEPENDENT manner. You can work with files, REGular eXpression, XML, dates and times, databases, network connections, threads, etc without worrying about the underlying OS.</li>
 <li>Not only are your programs portable, but the Java API are often of higher quality than the native ones</li>
+</ul>
+
+> 1.2.8. Interpreted
+<ul>
+<li>The Java interpreter can execute JAVA BYTECODES directly on any machine to which the interpreter has been ported</li>
+</ul>
+
+
+> 1.2.9. High-Performance
+<ul>
+<li>There are situations where higher performance is required. The BYTECODES can be translated ON THE FLY (at runtime) into machine code for particular CPU the application is running on</li>
+<li>Today, the JIT - Just-In-Time compilers have become so good that they are competitive with traditional compilers</li>
+<li>JIT compiler can monitor which code is executed frequently and OPTIMIZE JUST THAT CODE FOR SPEED</li>
+<li>JIT compiler knows which classes have been loaded.</li>
+</ul>
+
+
+> 1.2.10. Multithreaded
+<ul>
+<li>The benefits of multithreading are better interactive responseveness and REAL-TIME behavior</li>
+<li>Concurrent programming is never easy, but Java has done a very good job making it manageable</li>
+<li>Instead of faster processors, we just get more of them, and we have to keep them busy</li>
+</ul>
+
+> 1.2.11. Dynamic
+<ul>
+<li>Java is a more dynamic language than C/C++</li>
+<li>Libraries can freely add new methods and instance variables without any effect on their client.</li>
+<li>This is an important FEATURE in the situations where code needs to be added to a running program.</li>
+</ul>
+
+**1.3 Java Applets and the Internet**
+<ul>
+<li></li>
+<li></li>
 <li></li>
 <li></li>
 <li></li>
 </ul>
 
-> 1.2.8. Interpreted
-
-> 1.2.9. High-Performance
-
-> 1.2.10. Multithreaded
-
-> 1.2.11. Dynamic
-
-**1.3 Java Applets and the Internet**
-
 **1.4 A short History of Java**
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
 **1.5 Common Misconception about Java**
 #

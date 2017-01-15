@@ -25,22 +25,36 @@
 <li>Sự khác biệt lớn nhất giữa Java và C++ ở chỗ  "multiple inheritance", Java đã đổi bằng khái niệm đơn giản hơn - **Interface** </li>
 </ul>
 
-> 3. Distributed
-> 4. Robust
-> 5. Secure
-> 6. Architecture-Nleutral
-> 7. Portable
-> 8. Interpreted
-> 9. High-Performance
-> 10. Multithreaded
-> 11. Dynamic
+> 1.2.3. Distributed
+<ul>
+<li>Java has an extensive library of routines for copying with TCP/IP protocols like HTTP and FTP</li>
+<li>Java applications can open and access objects accross the NET via URLs with the same as when accessing a local file system</li>
+<li>Nowaday, one takes this for granted, but in 1995, connecting to a web server from C++ or Visual Basic programs was a major undertaking</li>
+</ul>
+
+> 1.2.4. Robust
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+> 1.2.5. Secure
+> 1.2.6. Architecture-Nleutral
+> 1.2.7. Portable
+> 1.2.8. Interpreted
+> 1.2.9. High-Performance
+> 1.2.10. Multithreaded
+> 1.2.11. Dynamic
 
 **1.3 Java Applets and the Internet**
 
 **1.4 A short History of Java**
 
 **1.5 Common Misconception about Java**
-
+#
 <ul>
 <li></li>
 <li></li>

@@ -19,7 +19,7 @@ EE = Enterprise Edition
 chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nhanh
 
 **Note:** 
-Chúng ta có 3 IDE chính để chạy Java
+##Chúng ta có 3 IDE chính để chạy Java##
     --------------------
     |NO | IDE          |
     |---|---------------
@@ -48,8 +48,7 @@ nộp qua github
 để sau này có thể tự mình review lại chặng đường mình đã đi qua
 
 
-source code chúng ta sẽ dev dùng các IDE nêu trên
-sau đó push source lên github
+##Source code chúng ta sẽ dev dùng các IDE nêu trên sau đó push source lên github##
 
 > -Thứ Bảy tuần sau là trả bài chương 1, chương 2 nha các bạn
 21/1/2017: trả bài chương 1, 2

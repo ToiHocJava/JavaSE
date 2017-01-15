@@ -68,6 +68,7 @@ cond(yes)->io->e
 cond(no)->sub1(right)->op1
 ```
 #
+```
 %% Sequence diagram code
 sequenceDiagram
     participant Alice
@@ -80,5 +81,6 @@ sequenceDiagram
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
+```
 #
 <img src="http://image.prntscr.com/image/e03c941747844484968dcd85772e0865.png">

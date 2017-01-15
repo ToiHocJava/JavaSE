@@ -65,9 +65,20 @@
 </ul>
 
 > 1.2.7. Portable
+<ul>
+<li>An "int" in Java is always a 32-bit integer. In C/C++, "int" can mean a 16-bit or 32-bit integer or any other size that the compiler vendor likes.</li>
+<li>"short int" < "int" < "long int" </li>
+<li>Binary data is stored and transmitted in a fixed format, eliminating confusion about byte odering.</li>
+<li>Strings are saved in a standard Unicode format</li>
+<li>The libraries that are a part of the system define PORTABLE INTERFACE</li>
+</ul>
+
 > 1.2.8. Interpreted
+
 > 1.2.9. High-Performance
+
 > 1.2.10. Multithreaded
+
 > 1.2.11. Dynamic
 
 **1.3 Java Applets and the Internet**

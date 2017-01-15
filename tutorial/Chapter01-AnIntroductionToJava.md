@@ -1,6 +1,10 @@
 ##Chapter 01: An Introduction to Java##
+########################################################
 
-**The java "White Paper" Buzzwords:**
+**1.1 Java as a Programming Platform**
+
+
+**1.2 The java "White Paper" Buzzwords:**
 > 1. Simple
 > 2. Object-Oriented
 > 3. Distributed
@@ -12,3 +16,9 @@
 > 9. High-Performance
 > 10. Multithreaded
 > 11. Dynamic
+
+**1.3 Java Applets and the Internet**
+
+**1.4 A short History of Java**
+
+**1.5 Common Misconception about Java**

@@ -43,9 +43,17 @@
 
 > 1.2.5. Secure
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>Java is intended to be used in networked/distributed environment.</li>
+<li>Java enables the contruction of virus-free, tamper-free (/'tæmpə/giả mạo, làm giả) system</li>
+<li>Java was designed to make certain kinds of attacks impossible:</li>
+    <ul>
+    <li>Over-running the runtime stack-a common attack of worms and virues</li>
+    <li>Corrupting memory outside its own process space</li>
+    <li>Reading or writing files without permission</li>
+    <li></li>
+    <li></li>
+    </ul>
+
 <li></li>
 <li></li>
 </ul>

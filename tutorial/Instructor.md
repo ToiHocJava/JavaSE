@@ -39,29 +39,5 @@ nộp qua github
 
 Draw Diagrams With Markdown
 ###################################
-http://support.typora.io/Draw-Diagrams-With-Markdown/
-Sequence
-
-It is powered by js-sequence, which would turn following code block into rendered diagrams:
-
-​```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-​```
-
-
-Flowchart
-
-It is powered by flowchart.js, which would turn following code block into rendered diagrams:
-
-​```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-​```
+%% Example code
+graph TD

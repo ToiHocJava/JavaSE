@@ -1,14 +1,14 @@
 NGUYÊN TẮC ĐẦU TIÊN KHI HỌC LẬP TRÌNH
 =====================================
 HỌC TƯ DUY, KHÔNG HỌC CODE
-> -code là muôn hình vạn trạng
+> -Code là muôn hình vạn trạng
 còn tư duy là kim chỉ nam, là định hướng để giải quyết vấn đề
 trong sách có 14 chương
 đa phần các bạn làm system, có thể bỏ qua chương 10,11,12
 trừ phi các bạn muốn làm ứng dụng có giao diện
 và chúng ta sẽ bắt đầu từ chương 1
 
-> -trung bình 1 tuần sẽ là 1 chương
+> -Trung bình 1 tuần sẽ là 1 chương
 chúng ta sẽ có khoản 12 tuần để hoàn thành phần lập trình Java
 thuật ngữ là Java SE
 SE = Standard Edition
@@ -17,11 +17,12 @@ EE = Enterprise Edition
 
 > -Java EE là bao gồm các kỹ thuật lập trình hướng web và trên các môi trường doanh nghiệp, tuy nhiên dù phức tạp đến chừng nào thì tất cả vẫn base nên nội lực Java SE
 chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nhanh
-chúng ta có 3 IDE chính để chạy Java
-> -1. Eclipse
-> -2. NetBeans
-> -3. IntelliJ IDEA
-đa phần công ty outsource xài Eclipse
+
+> - Chúng ta có 3 IDE chính để chạy Java
+1. Eclipse
+2. NetBeans
+3. IntelliJ IDEA
+Đa phần công ty outsource xài Eclipse
 các project cá nhân xài NetBeans
 IntellJ là bá đạo nhất (nhưng có tính phí)
 Android Studio base trên IntellJ

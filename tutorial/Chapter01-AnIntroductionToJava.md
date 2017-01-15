@@ -7,7 +7,9 @@
 > 3. Java is a whole platform:
 
 > 3.1. A huge library
+
 > 3.2. Containing lots of reuseable code
+
 > 3.3. Executing enviroment provides services: security, portability across OS, automatic garbage collection.
 
 **1.2 The java "White Paper" Buzzwords:**

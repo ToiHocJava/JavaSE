@@ -18,7 +18,7 @@ EE = Enterprise Edition
 > -Java EE là bao gồm các kỹ thuật lập trình hướng web và trên các môi trường doanh nghiệp, tuy nhiên dù phức tạp đến chừng nào thì tất cả vẫn base nên nội lực Java SE
 chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nhanh
 
-> **Note:** Chúng ta có 3 IDE chính để chạy Java
+**Note:** Chúng ta có 3 IDE chính để chạy Java
 	1. Eclipse
 	2. NetBeans
 	3. IntelliJ IDEA

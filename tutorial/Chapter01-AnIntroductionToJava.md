@@ -5,9 +5,9 @@
 > 1. The first release of ava in 1996
 > 2. Java is certainly a good programming language
 > 3. Java is a whole platform:
-> 3.1. A huge library
-> 3.2. Containing lots of reuseable code
-> 3.3. Executing enviroment provides services: security, portability across OS, automatic garbage collection.
+> - A huge library
+> - Containing lots of reuseable code
+> - Executing enviroment provides services: security, portability across OS, automatic garbage collection.
 
 **1.2 The java "White Paper" Buzzwords:**
 > 1. Simple
@@ -15,7 +15,7 @@
 > 3. Distributed
 > 4. Robust
 > 5. Secure
-> 6. Architecture-Neutral
+> 6. Architecture-Nleutral
 > 7. Portable
 > 8. Interpreted
 > 9. High-Performance

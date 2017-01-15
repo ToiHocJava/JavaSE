@@ -132,8 +132,8 @@
     <li>Several other useful language features were inspired by C#: a "for each" loop, autoboxing, and annotations</li>
     </ul>
 <li>Version 6 (without .0 suffix) was released at the end of 2006. Additional performance improments and library enhancements</li>
-<li></li>
-<li></li>
+<li>Version 7 was released by Oracle in 2011 (Oracle was bought Sun in 2009, 7.4 bil USD)</li>
+<li>Version 8 was released 2014</li>
 <li></li>
 <li></li>
 <li></li>

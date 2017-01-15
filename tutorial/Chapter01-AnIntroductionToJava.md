@@ -1,5 +1,6 @@
-##The java "White Paper" Buzzwords:##
+##Chapter 01: An Introduction to Java##
 
+**The java "White Paper" Buzzwords:**
 > 1. Simple
 
 > 2. Object-Oriented

@@ -29,7 +29,17 @@ chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nha
 --------------------
 | 3 |IntelliJ IDEA |
 --------------------
-	
+
+**Markdown Extra** has a special syntax for tables:
+
+Item     | Value
+-------- | ---
+Computer | $1600
+Phone    | $12
+Pipe     | $1
+
+
+
 Đa phần công ty outsource xài Eclipse
 các project cá nhân xài NetBeans
 IntellJ là bá đạo nhất (nhưng có tính phí)

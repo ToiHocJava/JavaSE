@@ -11,12 +11,14 @@
 > 3.2. Containing lots of reuseable code
 
 > 3.3. Executing enviroment provides services: security, portability across OS, automatic garbage collection.
+<ul>
+<li>3.1. A huge library</li>
+<li>3.2. Containing lots of reuseable code</li>
+<li>3.3. Executing enviroment provides services: security, portability across OS, automatic garbage collection.</li>
+</ul>
 
-- Gạch đầu dòng thứ nhất
-  <ul>
-  <li>Thụt với đầu dòng 1</li>
-  <li>Thụt với đầu dòng 1</li>
-  </ul>
+  
+  
 **1.2 The java "White Paper" Buzzwords:**
 > 1. Simple
 > 2. Object-Oriented

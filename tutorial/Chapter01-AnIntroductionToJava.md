@@ -11,16 +11,20 @@
 	<li>3.3. Executing enviroment provides services: security, portability across OS, automatic garbage collection.</li>
 	</ul>
 
-  
-  
 **1.2 The java "White Paper" Buzzwords:**
-> 1. Simple:
+> 1.2.1. Simple:
 	<ul>
-	<li>1.1. Chúng tôi muốn build 1 hệ thống có thể được lập trình dễ dàng. Chúng tôi thấy rằng C++ không phù hợp, chúng tôi đã thiết kế ra Java từ việc tham khảo C++.</li>
-	<li>1.2. Cấu trúc của Java phải rõ ràng, ko cần "header files, pointer, structures, unions, operator overloading, virtual base classes,.."</li>
+	<li>1.2.1. Chúng tôi muốn build 1 hệ thống có thể được lập trình dễ dàng. Chúng tôi thấy rằng C++ không phù hợp, chúng tôi đã thiết kế ra Java từ việc tham khảo C++.</li>
+	<li>1.2.2. Cấu trúc của Java phải rõ ràng, ko cần "header files, pointer, structures, unions, operator overloading, virtual base classes,.."</li>
 	</ul>
 
-> 2. Object-Oriented
+> 1.2.2. Object-Oriented
+<ul>
+<li>Thiết kế hướng đối tượng là kỹ thuật lập trình hướng trọng tâm vào data (objects) và interfaces của object</li>
+<li>Đặc điểm OO của Java tương đương với khái niệm OO của C++</li>
+<li>Sự khác biệt lớn nhất giữa Java và C++ ở chỗ  "multiple inheritance", Java đã đổi bằng khái niệm đơn giản hơn - "Interface"</li>
+</ul>
+
 > 3. Distributed
 > 4. Robust
 > 5. Secure
@@ -36,3 +40,11 @@
 **1.4 A short History of Java**
 
 **1.5 Common Misconception about Java**
+
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>

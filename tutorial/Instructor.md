@@ -20,15 +20,15 @@ chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nha
 
 
 ##Chúng ta có 3 IDE chính để chạy Java##
-    --------------------
-    |NO | IDE          |
-    |---|---------------
-	|1. |Eclipse       |
-    |---|---------------
-	|2. |NetBeans      |
-    |---|---------------
-	|3. |IntelliJ IDEA |
-	--------------------
+------------------
+|NO | IDE          |
+|---|---------------
+| 1 |Eclipse       |
+|---|---------------
+| 2 |NetBeans      |
+|---|---------------
+| 3 |IntelliJ IDEA |
+--------------------
 	
 Đa phần công ty outsource xài Eclipse
 các project cá nhân xài NetBeans
@@ -41,10 +41,9 @@ còn về bản chất có thể dùng notepad hoặc console để soạn thả
 
 ##Source code chúng ta sẽ dev dùng các IDE nêu trên sau đó push source lên github##
 
-> -Chúng ta sẽ bắt đầu tìm hiểu vào các chiều thứ Bảy
-từ 2h - 5h
-nội dung xoay quanh các thắc mắc về chương đã đọc trong tuần
-và làm bài tập
+
+##Lịch học##
+> -Chúng ta sẽ bắt đầu tìm hiểu vào các chiều thứ Bảy từ 2h - 5h. Nội dung xoay quanh các thắc mắc về chương đã đọc trong tuần và làm bài tập
 nộp qua github
 
 
@@ -56,4 +55,4 @@ nộp qua github
 
 > -Nội dung kiểm tra gồm các kiến thức, khái niệm được mô tả trong chương 1, 2
 và một số cách vận dụng kiến thức vào thực tế
-và hãy luôn nhớ, LẬP TRÌNH LÀ NIỀM VUI, cứ thoải mái nhất, ngồi cafe và đọc sách lập trình
+và hãy luôn nhớ, #LẬP TRÌNH LÀ NIỀM VUI#, cứ thoải mái nhất, ngồi cafe và đọc sách lập trình

@@ -1,6 +1,6 @@
 NGUYÊN TẮC ĐẦU TIÊN KHI HỌC LẬP TRÌNH
 =====================================
-HỌC TƯ DUY, KHÔNG HỌC CODE
+##HỌC TƯ DUY, KHÔNG HỌC CODE##
 > -Code là muôn hình vạn trạng
 còn tư duy là kim chỉ nam, là định hướng để giải quyết vấn đề
 trong sách có 14 chương

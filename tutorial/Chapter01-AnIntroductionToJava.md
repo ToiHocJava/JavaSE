@@ -2,7 +2,12 @@
 ########################################################
 
 **1.1 Java as a Programming Platform**
-
+> -The first release of ava in 1996
+> -Java is certainly a good programming language
+> -Java is a whole platform:
+> -+A huge library
+> -+Containing lots of reuseable code
+> -+Executing enviroment provides services: security, portability across OS, automatic garbage collection.
 
 **1.2 The java "White Paper" Buzzwords:**
 > 1. Simple

@@ -53,11 +53,17 @@
     <li>Originally, the Java attitude towards downloaded code was "Bring it on!" Un-trusted code was executed in a SANDBOX ENVIRONMENT where its could not impact the host system. USers were assured that nothing bad could happen becase Java code, no matter where it came from, was incapable of escaping from the sanbox</li>
     <li>After a number of high-profile attacks, browser vendors and Oracle became increasingly cautions. Java browsers plug-ins no longer trust remote code unless it is digitally signed and users have aggred to its execution - MENTION TO JAVA APPLET</li>
     </ul>
-
-<li></li>
-<li></li>
 </ul>
+
 > 1.2.6. Architecture-Nleutral
+<ul>
+<li>The compiler generates an architecture-neutral object file format - the conpiled code is executed on many prossors</li>
+<li>The Java compiler does this by generating **BYTECODE** instructions</li>
+<li>JAVA BYTECODE are designed to be both easy to interpret on ANY MACHINE, EASY TRANSLATED into native machine code on the fly</li>
+<li>Interpreting VIRTUAL MACHINE INSTRUCTORS IS SLOWER THAN RUNNING MACHINE INSTRUCTIONS AT FULL SPEED</li>
+<li>Java's VIRTUAL MACHINE has another advantage - increasing security because it can check the behavior of instruction sequences</li>
+</ul>
+
 > 1.2.7. Portable
 > 1.2.8. Interpreted
 > 1.2.9. High-Performance

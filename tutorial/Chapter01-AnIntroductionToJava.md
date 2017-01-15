@@ -34,10 +34,12 @@
 
 > 1.2.4. Robust
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Java is intended for writing programs that must be reliable in a variety of ways</li>
+<li>Java puts a lot of emphasis on early checking for possible problems, later dynamic (runtime) checking, and eliminating situation that are error-prone...</li>
+<li>The single biggest difference between Java and C/C++ is that Java has a pointer model that eliminates (/i'limineit/loại ra, loại trừ) the possibility of overwriting memory and corrupting data</li>
+<li>Java compiler detects many problems that in other languages would show up only at runtimes</li>
+<li>At the second point, anyone who has spent hours chasing memory corruption caused by a pointer bug will be very happy with this aspect of Java</li>
+
 <li></li>
 </ul>
 

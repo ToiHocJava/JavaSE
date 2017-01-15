@@ -106,15 +106,33 @@
 
 **1.3 Java Applets and the Internet**
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Java prgrams that work on web pages are call APPLETS</li>
+<li>Most importantly, thanks to the security of the VIRTUAL MACHINE, you never need to worry about attacks from hostile code</li>
+<li>Inserting an APPET into a web page works much like embedding an image</li>
+<li>Various version of the web browser ran different versions of Java, some of which were seriously OUTDATED.</li>
+<li>Java as dogged by serious security issues.</li>
 </ul>
 
 **1.4 A short History of Java**
 <ul>
+<li>Java goes back to 1991, from a group of SUN MICROSYSTEM engineers, led by "Patrick Naughton" and "James Gosling", wanted to degign a SMALL COMPUTER LANGUAGE that could be used for consumer deviced like cable TV switchboxes. The project was code-name "GREEN"</li>
+<li>The requirements for small, tight, and platform-neutral code led the team to design a portable language that generated intermediate code for a VIRTUAL MACHINE</li>
+<li>James Gosling was call his language "OAK" - that as right outside his window at Sun Microsystem. The people at Sun later realized that Oak was the name of an existing computer language, so they changed</li>
+<li>The first version of Java 1.0 in early 1996</li>
+<li>The second version of Java 1.2 inDec 1998. Three days after, Sun's markeing dept changed the name to the "Java 2 Standard Edition Software Depvelopment Kit Version 1.2</li>
+    <ul>
+    <li>The Micro Edition for embedded devices such as cell phones</li>
+    <li>The Enterprise Edition for server-side processing</li>
+    </ul>
+
+<li>Version 1.3 and 1.4 of JavaSE were incremental improvments overs the initial Java 2 release</li>
+<li>Version 5.0 was the first release since version 1.1 that updated the Java language in significant ways (This version was originally 1.5 but the version number jumped to 5.0 at 2004 JavaOne conference</li>
+    <ul>
+    <li>Generic types (roughly comparable to C++ templates) have been added</li>
+    <li>Several other useful language features were inspired by C#: a "for each" loop, autoboxing, and annotations</li>
+    </ul>
+<li>Version 6 (without .0 suffix) was released at the end of 2006. Additional performance improments and library enhancements</li>
+<li></li>
 <li></li>
 <li></li>
 <li></li>

@@ -19,9 +19,9 @@ EE = Enterprise Edition
 chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nhanh
 
 > - Chúng ta có 3 IDE chính để chạy Java
-1. Eclipse
-2. NetBeans
-3. IntelliJ IDEA
+	1. Eclipse
+	2. NetBeans
+	3. IntelliJ IDEA
 Đa phần công ty outsource xài Eclipse
 các project cá nhân xài NetBeans
 IntellJ là bá đạo nhất (nhưng có tính phí)

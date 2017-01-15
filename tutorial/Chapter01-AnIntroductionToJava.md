@@ -71,6 +71,11 @@
 <li>Binary data is stored and transmitted in a fixed format, eliminating confusion about byte odering.</li>
 <li>Strings are saved in a standard Unicode format</li>
 <li>The libraries that are a part of the system define PORTABLE INTERFACE</li>
+<li>Java libraries do a greate job of letting you work in a PLATFORM-INDEPENDENT manner. You can work with files, REgular eXpression, XML, dates and times, databases, network connections, threads, etc without worrying about the underlying OS.</li>
+<li>Not only are your programs portable, but the Java API are often of higher quality than the native ones</li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
 
 > 1.2.8. Interpreted

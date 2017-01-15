@@ -40,7 +40,7 @@ còn về bản chất có thể dùng notepad hoặc console để soạn thả
 ##Source code chúng ta sẽ dev dùng các IDE nêu trên sau đó push source lên github##
 
 
-##Lịch học##
+##Lịch học:##
 > -Chúng ta sẽ bắt đầu tìm hiểu vào các chiều thứ Bảy từ 2h - 5h. Nội dung xoay quanh các thắc mắc về chương đã đọc trong tuần và làm bài tập
 nộp qua github
 

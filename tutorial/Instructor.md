@@ -39,7 +39,7 @@ nộp qua github
 
 Draw Diagrams With Markdown
 ###################################
-
+http://support.typora.io/Draw-Diagrams-With-Markdown/
 Sequence
 
 It is powered by js-sequence, which would turn following code block into rendered diagrams:

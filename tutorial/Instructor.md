@@ -37,6 +37,12 @@ nộp qua github
 > -Nội dung kiểm tra gồm các kiến thức, khái niệm được mô tả trong chương 1, 2 và một số cách vận dụng kiến thức vào thực tế và hãy luôn nhớ, #LẬP TRÌNH LÀ NIỀM VUI#, cứ thoải mái nhất, ngồi cafe và đọc sách lập trình.
 #
 
+**Hướng dẫn sử dụng GITHUB**
+*https://github.com/hocchudong/git-github-for-sysadmin
+*http://rogerdudler.github.io/git-guide/index.vi.html
+*http://knsv.github.io/mermaid/live_editor/
+
+
 Draw Diagrams With Markdown
 ###################################
 ```sequence

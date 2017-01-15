@@ -2,19 +2,21 @@
 ########################################################
 
 **1.1 Java as a Programming Platform**
-> 1. The first release of ava in 1996
+> 1. The first release of Java in 1996
 > 2. Java is certainly a good programming language
 > 3. Java is a whole platform:
-<ul>
-<li>3.1. A huge library</li>
-<li>3.2. Containing lots of reuseable code</li>
-<li>3.3. Executing enviroment provides services: security, portability across OS, automatic garbage collection.</li>
-</ul>
+	<ul>
+	<li>3.1. A huge library</li>
+	<li>3.2. Containing lots of reuseable code</li>
+	<li>3.3. Executing enviroment provides services: security, portability across OS, automatic garbage collection.</li>
+	</ul>
 
   
   
 **1.2 The java "White Paper" Buzzwords:**
 > 1. Simple
+	Chúng tôi muốn build 1 hệ thống có thể được lập trình dễ dàng. Chúng tôi thấy rằng C++ không phù hợp, chúng tôi đã thiết kế ra Java từ việc tham khảo C++.
+	Cấu trúc của Java phải rõ ràng, ko cần "header files, pointer, structures, unions, operator overloading, virtual base classes,.."
 > 2. Object-Oriented
 > 3. Distributed
 > 4. Robust

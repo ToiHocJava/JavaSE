@@ -2,7 +2,6 @@
 
 **The java "White Paper" Buzzwords:**
 > 1. Simple
-
 > 2. Object-Oriented
 
 > 3. Distributed

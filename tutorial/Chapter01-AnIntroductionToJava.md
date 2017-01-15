@@ -50,8 +50,8 @@
     <li>Over-running the runtime stack-a common attack of worms and virues</li>
     <li>Corrupting memory outside its own process space</li>
     <li>Reading or writing files without permission</li>
-    <li></li>
-    <li></li>
+    <li>Originally, the Java attitude towards downloaded code was "Bring it on!" Un-trusted code was executed in a SANDBOX ENVIRONMENT where its could not impact the host system. USers were assured that nothing bad could happen becase Java code, no matter where it came from, was incapable of escaping from the sanbox</li>
+    <li>After a number of high-profile attacks, browser vendors and Oracle became increasingly cautions. Java browsers plug-ins no longer trust remote code unless it is digitally signed and users have aggred to its execution - MENTION TO JAVA APPLET</li>
     </ul>
 
 <li></li>

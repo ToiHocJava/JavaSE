@@ -19,7 +19,7 @@ EE = Enterprise Edition
 chỉ cần học tốt Java SE thì mọi thứ khác sẽ hấp thụ khá nhanh
 
 **Note:** 
-##Chúng ta có 3 IDE chính để chạy Java##
+Chúng ta có 3 IDE chính để chạy Java
     --------------------
     |NO | IDE          |
     |---|---------------

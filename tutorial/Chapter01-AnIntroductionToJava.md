@@ -55,7 +55,7 @@
     </ul>
 </ul>
 
-> 1.2.6. Architecture-Nleutral
+> 1.2.6. Architecture-Neutral
 <ul>
 <li>The compiler generates an architecture-neutral object file format - the conpiled code is executed on many prossors</li>
 <li>The Java compiler does this by generating **BYTECODE** instructions</li>

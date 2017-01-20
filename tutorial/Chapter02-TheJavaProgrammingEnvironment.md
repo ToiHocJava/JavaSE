@@ -32,20 +32,17 @@ NetBeans | - | Oracle's integrated developmetn environment
     
 > 2.1.2 Setting up the JDK
 <ul>
-    <li>WINDOWS:: \jdk1.8.0_112\bin;</li>
+    <li>WINDOWS: \jdk1.8.0_112\bin;</li>
     <li>LINUX: "/etc/profile"
   
+        #GLOBAL PATH VARIABLES:
+        PATH=$PATH:/opt/jdk1.8.0_25/bin:
+        export PATH
 
-    #GLOBAL PATH VARIABLES:
-    PATH=$PATH:/opt/jdk1.8.0_25/bin:
-    export PATH
-
-    #JAVA CLASSPATH:
-    CLASSPATH=$CLASSPATH:/opt/jdk1.8.0_25/jre/lib:.:/opt/jdk1.8.0_65/jre/lib/ext
-    export CLASSPATH
-```
-
-</li>
+        #JAVA CLASSPATH:
+        CLASSPATH=$CLASSPATH:/opt/jdk1.8.0_25/jre/lib:.:/opt/jdk1.8.0_65/jre/lib/ext
+        export CLASSPATH
+    </li>
 
 
     <li></li>

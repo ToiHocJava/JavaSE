@@ -34,6 +34,7 @@ NetBeans | - | Oracle's integrated developmetn environment
 <ul>
     <li>WINDOWS PATH VARIABLE: \jdk1.8.0_112\bin;</li>
     <li>LINUX PATH VARIABLE: "/etc/profile"
+```
     #GLOBAL PATH VARIABLES:
     PATH=$PATH:/opt/jdk1.8.0_25/bin:
     export PATH
@@ -41,6 +42,7 @@ NetBeans | - | Oracle's integrated developmetn environment
     #JAVA CLASSPATH:
     CLASSPATH=$CLASSPATH:/opt/jdk1.8.0_25/jre/lib:.:/opt/jdk1.8.0_65/jre/lib/ext
     export CLASSPATH
+```
     </li>
     <li></li>
     <li></li>

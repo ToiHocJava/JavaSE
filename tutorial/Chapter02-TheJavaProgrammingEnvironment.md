@@ -35,7 +35,14 @@ NetBeans | - | Oracle's integrated developmetn environment
     <li>WINDOWS PATH VARIABLE: \jdk1.8.0_112\bin;</li>
     <li>LINUX PATH VARIABLE: "/etc/profile"
     
-    
+Environment | File | Value
+--- | --- | ---
+WINDOWS | - | \jdk1.8.0_112\bin;
+LINUX | /etc/profile | #GLOBAL PATH VARIABLES:
+    PATH=$PATH:/opt/jdk1.8.0_25/bin:
+    export PATH
+
+#
 ```javascript
     #GLOBAL PATH VARIABLES:
     PATH=$PATH:/opt/jdk1.8.0_25/bin:

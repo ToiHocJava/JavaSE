@@ -9,7 +9,7 @@
         </li>
         <li>Table 2.1 Java Jargon - Thuật ngữ Java </li>
 Name | Acronym | Explanation
----|-----------------
+---|-|----------------------
 Java Development Kit | JDK | The software for programmers who watn to write Java programs
 Java Runtime Environment | JRE | The softwre for consumers who want to run Java programs
 Server JRE | - | The software for running Java programs on servers

@@ -22,21 +22,29 @@ OpenJDK | J2 | An outdated term that described Java versions from 1998 until 200
 Software Development Kit | SDK | An outdated term that described the JDK from 1998 until 2006
 Update | u | Oracle's term for a bug fix release
 NetBeans | - | Oracle's integrated developmetn environment
-
-
 #
-
-NO | IDE             
----|-----------------
- 1 |[Eclipse](https://eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/2/eclipse-java-neon-2-win32-x86_64.zip)      
- 2 |[NetBeans] (http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-javase-windows.exe)
- 3 |[IntelliJ IDEA] (https://download.jetbrains.com/idea/ideaIU-2016.3.2.win.zip)
-(LastUpdate: 2017.01.15)
         <li>
         </li>
         <li>
         </li>
     </ul>
+    
+    
+< 2.1.2 Setting up the JDK
+<ul>
+    <li>WINDOWS PATH VARIABLE: \jdk1.8.0_112\bin;</li>
+    <li>LINUX PATH VARIABLE: "/etc/profile"
+    #GLOBAL PATH VARIABLES:
+    PATH=$PATH:/opt/jdk1.8.0_25/bin:
+    export PATH
+
+    #JAVA CLASSPATH:
+    CLASSPATH=$CLASSPATH:/opt/jdk1.8.0_25/jre/lib:.:/opt/jdk1.8.0_65/jre/lib/ext
+    export CLASSPATH
+    </li>
+    <li></li>
+    <li></li>
+</ul>
 
 
 

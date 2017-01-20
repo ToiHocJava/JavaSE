@@ -21,6 +21,10 @@ Software Development Kit | SDK | An outdated term that described the JDK from 19
 Update | u | Oracle's term for a bug fix release
 NetBeans | - | Oracle's integrated developmetn environment
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 NO | IDE             
 ---|-----------------

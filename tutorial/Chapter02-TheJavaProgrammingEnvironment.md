@@ -32,13 +32,18 @@ NetBeans | - | Oracle's integrated developmetn environment
     
 < 2.1.2 Setting up the JDK
 <ul>
-   
+    <li>WINDOWS:: \jdk1.8.0_112\bin;</li>
+    <li>LINUX: "/etc/profile"
+    
 Environment | File | Value
 --- | --- | ---
 WINDOWS | - | \jdk1.8.0_112\bin;
 LINUX | /etc/profile | #GLOBAL PATH VARIABLES:
     PATH=$PATH:/opt/jdk1.8.0_25/bin:
     export PATH
+
+
+</li>
 
 
 #

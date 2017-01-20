@@ -133,7 +133,7 @@
     </ul>
 <li>Version 6 (without .0 suffix) was released at the end of 2006. Additional performance improments and library enhancements</li>
 <li>Version 7 was released by Oracle in 2011 (Oracle was bought Sun in 2009, 7.4 bil USD)</li>
-<li>Version 8 was released 2014</li>
+<li>Version 8 was released 2014 (4240 class+interface), Lambda expressions, interfaces with default methods, stream and date/time libraries</li>
 <li></li>
 <li></li>
 <li></li>

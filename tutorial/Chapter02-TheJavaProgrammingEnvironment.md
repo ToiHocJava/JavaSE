@@ -7,7 +7,7 @@
         <li>Download from Oracle.com and install:: 
         [Java SE Development Kit 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
         </li>
-        <li>Table 2.1 Java Jargon - Thuật ngữ Java
+        <li>Table 2.1 Java Jargon - Thuật ngữ Java </li>
 Name | Acronym | Explanation
 ---|-----------------
 Java Development Kit | JDK | The software for programmers who watn to write Java programs
@@ -20,7 +20,7 @@ OpenJDK | J2 | An outdated term that described Java versions from 1998 until 200
 Software Development Kit | SDK | An outdated term that described the JDK from 1998 until 2006
 Update | u | Oracle's term for a bug fix release
 NetBeans | - | Oracle's integrated developmetn environment
-        </li>
+
         <li>
         </li>
         <li>

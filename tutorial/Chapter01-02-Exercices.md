@@ -12,7 +12,7 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 
 
 
-
+##########################
 **Answer (7:13 20170127)**
 > 1. Thế nào là JDK, JRE? Dùng JDK hoặc JRE trong những trường hợp nào?
 

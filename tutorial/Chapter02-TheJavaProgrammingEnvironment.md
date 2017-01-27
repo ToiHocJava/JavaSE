@@ -4,7 +4,7 @@
 **2.1 Installing the Java Development Kit**
 > 2.1.1. Downloading the JDK
     <ul>
-        <li>Download from Oracle.com and install:: 
+        <li>Download from Oracle.com and install:
         [Java SE Development Kit 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
         </li>
         <li>Table 2.1 Java Jargon - Thuật ngữ Java </li>
@@ -32,7 +32,11 @@ NetBeans | - | Oracle's integrated developmetn environment
     
 > 2.1.2 Setting up the JDK
 <ul>
-    <li>WINDOWS: \jdk1.8.0_112\bin;</li>
+    <li>WINDOWS: 
+    PATH="\jdk1.8.0_112\bin;"
+    CLASSPATH="D:\Program Files\Java\jre1.8.0_112\lib;.;D:\Program Files\Java\jre1.8.0_112\lib\ext;"
+    </li>
+    
     <li>LINUX: "/etc/profile"
   
         #GLOBAL PATH VARIABLES:
@@ -42,13 +46,18 @@ NetBeans | - | Oracle's integrated developmetn environment
         #JAVA CLASSPATH:
         CLASSPATH=$CLASSPATH:/opt/jdk1.8.0_25/jre/lib:.:/opt/jdk1.8.0_65/jre/lib/ext
         export CLASSPATH
-    </li>
-
-
+   </li>
+    
+    
     <li></li>
     <li></li>
 </ul>
 
+>2.1.3 Installing Source Files and Documentation
+Compile Source File: javac <FileName.java>
+Run bytecode: java FileName
+
+http://prntscr.com/dyajq0
 
 
 **2.2 Using the Command-Line Tools**
@@ -60,9 +69,30 @@ NetBeans | - | Oracle's integrated developmetn environment
 </ul>
 
 **2.3 Using an Integrated Development Environment**
-**2.4 Running a Graphical Application**
-**2.5 Building and Running Applets**
+<ul>
+<li>Eclipse: http://prntscr.com/dyamag</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
+
+**2.4 Running a Graphical Application**
+<ul>
+<li>Running the ImageViewer Application: http://prntscr.com/dyan46</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+
+**2.5 Building and Running Applets**
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
 
 

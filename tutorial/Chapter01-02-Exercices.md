@@ -34,7 +34,7 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
     "PATH" are the list of directories that the Operating System traverses to LOCATE EXECUTABLE FILES.
     </li>
 
-    <li>
+
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
                  export PATH=jdk/bin:$PATH 
 <br>
@@ -52,7 +52,7 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 <br>
 4.2/ <>CLASSPATH</b>: Add new value [D:\Program Files\Java\jre1.8.0_112\lib;.;D:\Program Files\Java\jre1.8.0_112\lib\ext;]
 
-    </li>
+
 
     <li>
     </li>

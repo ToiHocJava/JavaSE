@@ -40,13 +40,13 @@ export PATH=jdk/bin:$PATH
 
 <b> On Windows</b>,
 <br>
-<a href="http://prntscr.com/e1nnat">1/ Computer-->Properties</a>
+1/ <a href="http://prntscr.com/e1nnat">Computer-->Properties</a>
 <br>
-<a href="http://prntscr.com/e1nnl6">2/ Advanced System Settings</a>
+2/ <a href="http://prntscr.com/e1nnl6">Advanced System Settings</a>
 <br>
-<a href="http://prntscr.com/e1nnys">3/ System Properties-->Enviroment Variables...</a>
+3/ <a href="http://prntscr.com/e1nnys">System Properties-->Enviroment Variables...</a>
 <br>
-<a href="http://prntscr.com/e1noti">4/ System Variables</a>
+4/ <a href="http://prntscr.com/e1noti">System Variables</a>
 <br>
 4.1/ <b>PATH</b>: Add new value [;D:\Program Files\Java\jdk1.8.0_112\bin;] , without "Square brackets"
 <br>

@@ -37,7 +37,7 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
 export PATH=jdk/bin:$PATH
 <br>
-<a href="http://prntscr.com/e1o2o2">Linux "/etc/profile"</a>
+<a href="http://image.prntscr.com/image/80d30536b56142a6b271703d88e2e1ef.png">Linux "/etc/profile"</a>
 
 <b> On Windows</b>,
 <br>
@@ -59,7 +59,7 @@ Windows CMD:
 <a href="http://prntscr.com/e1o0ur">java -version</a>
 <br>
 Linux Console: 
-<a href="http://prntscr.com/e1o1ty">java -version</a>
+<a href="http://image.prntscr.com/image/4dabcbdf506f4b36adeb1c6f03f30066.png">java -version</a>
     <li>
     </li>
 

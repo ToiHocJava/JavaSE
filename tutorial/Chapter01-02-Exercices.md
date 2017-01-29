@@ -37,9 +37,7 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
 export PATH=jdk/bin:$PATH
 <br>
-
-
-<a href="http://prntscr.com/e1o2o2">/etc/profile</a>
+<a href="http://prntscr.com/e1o2o2">Linux "/etc/profile"</a>
 
 <b> On Windows</b>,
 <br>

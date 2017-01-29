@@ -36,7 +36,7 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 
     <li>
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
-export PATH=jdk/bin:$PATH 
+                 export PATH=jdk/bin:$PATH 
 <br>
 <b> On Windows</b>,
 <br>

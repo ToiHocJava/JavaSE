@@ -38,7 +38,6 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 export PATH=jdk/bin:$PATH 
 
 
-<br>
 <b> On Windows</b>,
 <br>
 <a href="http://prntscr.com/e1nnat">1/ Computer-->Properties</a>

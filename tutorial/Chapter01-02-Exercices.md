@@ -35,20 +35,16 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
     </li>
 
     <li>
-	<b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
-	export PATH=jdk/bin:$PATH 
-
-	<br>
-	<b> On Windows</b>,
+<b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
+export PATH=jdk/bin:$PATH 
+<br>
+<b> On Windows</b>,
 <br>
 <a href="http://prntscr.com/e1nnat">1/ Computer-->Properties</a>
-
 <br>
 <a href="http://prntscr.com/e1nnl6">2/ Advanced System Settings</a>
-
 <br>
 <a href="http://prntscr.com/e1nnys">3/ System Properties-->Enviroment Variables...</a>
-
 <br>
 <a href="http://prntscr.com/e1noti">4/ System Variables</a>
 <br>

@@ -50,7 +50,7 @@ export PATH=jdk/bin:$PATH
 <br>
 4.1/ <b>PATH</b>: Add new value [;D:\Program Files\Java\jdk1.8.0_112\bin;] , without "Square brackets"
 <br>
-4.2/ <>CLASSPATH</b>: Add new value [D:\Program Files\Java\jre1.8.0_112\lib;.;D:\Program Files\Java\jre1.8.0_112\lib\ext;]
+4.2/ <b>CLASSPATH</b>: Add new value [D:\Program Files\Java\jre1.8.0_112\lib;.;D:\Program Files\Java\jre1.8.0_112\lib\ext;]
 
 
 

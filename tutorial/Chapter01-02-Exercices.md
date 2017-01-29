@@ -30,9 +30,9 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 ##
 > Câu 2. Các biến môi trường PATH và CLASSPATH là gì? và được ứng dụng trong thực tế (qua nhiều hệ điều hành Windows, Linux ...) như thế nào?
 <ul>
-    <li>
-    "PATH" are the list of directories that the Operating System traverses to LOCATE EXECUTABLE FILES.
-    </li>
+
+"PATH" are the list of directories that the Operating System traverses to LOCATE EXECUTABLE FILES.
+
 
 
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>

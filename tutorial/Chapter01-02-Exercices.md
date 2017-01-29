@@ -56,7 +56,9 @@ export PATH=jdk/bin:$PATH
 After config PATH, CLASSPATH, you can test: <br>
 Windows CMD: 
 <a href="http://prntscr.com/e1o0ur">java -version</a>
-
+<br>
+Linux Console: 
+<a href="http://prntscr.com/e1o1ty">java -version</a>
     <li>
     </li>
 

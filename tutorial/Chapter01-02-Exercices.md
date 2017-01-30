@@ -1,4 +1,4 @@
-#r#Chapter01-02-Exercices##
+##Chapter01-02-Exercices##
 ##########################
 
 **Bài tập cho chương 1,2 (20170122 17:12:56)**

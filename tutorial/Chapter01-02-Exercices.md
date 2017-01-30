@@ -79,7 +79,7 @@ Linux Console:
 	3.3 Created new file name <a href="http://prntscr.com/e28cpa"><b>Welcome.class</b></a>
     </li>
     <li>
-	3.4 Executing bytecode file: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/java Welcome</b>
+	3.4 Execute bytecode file: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/java Welcome</b>
     </li>
     <li>
 	3.5 Result: <a href="http://prntscr.com/e28ep8"><b>Welcome to Javaworld</b></a>

@@ -131,3 +131,24 @@ Test: <a href="http://prntscr.com/e2ekgb"> http://prntscr.com/e2ekgb </a>
 Welcome to Javaworld
 </li>
 </ul>
+
+
+##
+> 5. Theo quan điểm riêng của bạn, vì sao Java đang đứng top 1 của các ngôn ngữ lập trình? (theo <a href="http://www.tiobe.com/tiobe-index/">Tiobe</a>)
+<ul>
+<li>
+<b>TIOBE Index for January 2017</b>
+<br>
+<img src="http://image.prntscr.com/image/06579630cecb4a67ad75e90ea0455832.png">
+</li>
+<li>
+<b>TIOBE Programming Community Index</b>
+<br>
+<img src="http://image.prntscr.com/image/593ef5dddb3b4bb491e3022c241c6bdf.png">
+</li>
+<li>
+<b>Very Long Term History</b>
+<br>
+<img src="http://image.prntscr.com/image/4a60353216584ebeaccb6cf122b32bac.png">
+</li>
+</ul>

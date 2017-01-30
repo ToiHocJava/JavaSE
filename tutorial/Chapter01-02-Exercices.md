@@ -139,7 +139,7 @@ Welcome to Javaworld
 <li>
 <b>TIOBE Index for January 2017</b>
 <br>
-<img src="http://image.prntscr.com/image/06579630cecb4a67ad75e90ea0455832.png">
+<img src="http://image.prntscr.com/image/cb68b79787ab4c589416a39558133252.png">
 </li>
 <li>
 <b>TIOBE Programming Community Index</b>

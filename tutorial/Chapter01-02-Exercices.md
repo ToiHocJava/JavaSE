@@ -94,25 +94,43 @@ Linux Console:
 <li>
 RESULT: <a href="https://drive.google.com/drive/folders/0B5CVqveXl6nqd2g4ejJxeDdZOXc"><b>JAVA APPS PORTABLE</b></a>
 </li>
-Steps:
+<b>Steps</b>:
+
 <br>
-Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java</a>
+4.1 Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java</a>
 <br>
-Created bytecode: /opt/jdk1.8.0_121/bin/javac -cp Welcome.java
+4.2 Create bytecode: <b>/opt/jdk1.8.0_121/bin/javac Welcome.java</b>
 <br>
-4.1 Created .jar file from bytecode:
+4.3 Create .jar file from bytecode:
 <br>
-/opt/jdk1.8.0_121/bin/javac -cp Welcome.java
+4.3.1 Create folder name "WelcomeJavaWorld"
 <br>
-4.1.1 Created folder name "WelcomeJavaWorld"
+4.3.2 Create folder name "WelcomeJavaWorld/META-INF"
 <br>
-4.1.2 Created folder name "WelcomeJavaWorld/META-INF"
-<br>
-4.1.3 Created file name "MANIFEST.MF", content:
+4.3.3 Create file name "WelcomeJavaWorld/META-INF/<b>MANIFEST.MF</b>", content:
 <br>
 Manifest-Version: 1.0
+<br>
 Main-Class: Welcome
+<br>
+Souce: <a href="http://prntscr.com/e2ehpg">http://prntscr.com/e2ehpg</a>
+<br>
+4.3.4 Compress folder "WelcomeJavaWorld" to "WelcomeJavaWorld.jar", using compressor:
+<br>
+root@srv021:/opt/JavaApp-Portable-Linux/apps# <b>zip -r WelcomeJavaWorld.jar META-INF Welcome.class</b>
+<br>
+Source: <a href="http://prntscr.com/e2eit3">http://prntscr.com/e2eit3</a>
+<br>
+Result, created "<b>WelcomeJavaWorld.jar</b>" file: <a href="http://prntscr.com/e2ejdt">http://prntscr.com/e2ejdt</a>
+<br>
+Test: <a href="http://prntscr.com/e2ekgb"> http://prntscr.com/e2ekgb </a>
+<br>
+/opt/jdk1.8.0_121/bin/java -jar WelcomeJavaWorld.jar
+<br>
+Welcome to Javaworld
+
 
 <li>
 </li>
+
 </ul>

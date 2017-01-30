@@ -67,3 +67,25 @@ Linux Console:
 
 ##
 > Câu 3. Làm thế nào chỉ cần 1 câu lệnh có thể thực thi 1 file chứa source java được soạn từ console hoặc notepad?
+<ul>
+    <li>
+    3.1 Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java
+</a>
+	</li>
+    <li>
+    3.2 Compile source code to bytecode: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/javac Welcome.java</b>
+    </li>
+    <li>
+	3.3 Created new file name <a href="http://prntscr.com/e28cpa"><b>Welcome.class</b></a>
+    </li>
+    <li>
+	3.4 Executing bytecode file: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/java Welcome</b>
+    </li>
+    <li>
+	3.5 Result: <a href="http://prntscr.com/e28ep8"><b>Welcome to Javaworld</b></a>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+</ul>

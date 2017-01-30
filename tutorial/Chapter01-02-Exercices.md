@@ -89,10 +89,14 @@ Linux Console:
 
 
 ##
-> Câu 4. Làm thế nào để tạo ra một bản protable JAVA có thể chạy mà không cần cài đặt? (đa phần các ứng dụng Java đều có yêu cầu cài sẵn môi trường Java)
+> Câu 4. Làm thế nào để tạo ra một bản portable JAVA có thể chạy mà không cần cài đặt? (đa phần các ứng dụng Java đều có yêu cầu cài sẵn môi trường Java)
 <ul>
     <li>
+	RESULT: <a href="https://drive.google.com/drive/folders/0B5CVqveXl6nqd2g4ejJxeDdZOXc"><b>JAVA APPS PORTABLE</b></a>
     </li>
+	Steps:
+<br>
+4.1 Created .jar file from bytecode
     <li>
     </li>
 </ul>

@@ -21,7 +21,6 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
     <li>
     JDK is "Java Development Kit". That's the software for PROGRAMMERS who want to write Java programs.
 	</li>
-
     <li>
     JRE is "Java Runtime Environment". That's the software for CONSUMERS who want to run Java programs.
     </li>

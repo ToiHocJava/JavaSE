@@ -95,6 +95,8 @@ Linux Console:
 <li>
 3.3 Created new file name <a href="http://prntscr.com/e28cpa"><b>Welcome.class</b></a>
 <img srv="http://image.prntscr.com/image/373fbbc1d8e94a3ab8f19b38c1e5f6e1.png">
+<br>
+<img src="http://image.prntscr.com/image/373fbbc1d8e94a3ab8f19b38c1e5f6e1.png">
 </li>
 <li>
 3.4 Execute bytecode file: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/java Welcome</b>

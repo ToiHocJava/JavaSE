@@ -8,7 +8,9 @@
 > 3. Làm thế nào chỉ cần 1 câu lệnh có thể thực thi 1 file chứa source java được soạn từ console hoặc notepad?
 > 4. Làm thế nào để tạo ra một bản protable JAVA có thể chạy mà không cần cài đặt? (đa phần các ứng dụng Java đều có yêu cầu cài sẵn môi trường Java)
 > 5. Theo quan điểm riêng của bạn, vì sao Java đang đứng top 1 của các ngôn ngữ lập trình? (theo Tiobe)
-mọi người trả lời trên GITHUB và paste link lên đây nhé.
+<br>
+<br>
+(mọi người trả lời trên GITHUB và paste link lên đây nhé)
 
 
 
@@ -19,10 +21,10 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 > Câu 1. Thế nào là JDK, JRE? Dùng JDK hoặc JRE trong những trường hợp nào?
 <ul>
     <li>
-    JDK is "Java Development Kit". That's the software for PROGRAMMERS who want to write Java programs.
+    JDK is <b>Java Development Kit</b>. That's the software for PROGRAMMERS who want to write Java programs.
 	</li>
     <li>
-    JRE is "Java Runtime Environment". That's the software for CONSUMERS who want to run Java programs.
+    JRE is <b>Java Runtime Environment</b>. That's the software for CONSUMERS who want to run Java programs.
     </li>
 </ul>
 
@@ -30,7 +32,7 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 > Câu 2. Các biến môi trường PATH và CLASSPATH là gì? và được ứng dụng trong thực tế (qua nhiều hệ điều hành Windows, Linux ...) như thế nào?
 <ul>
 <li>
-"PATH" are the list of directories that the Operating System traverses to LOCATE EXECUTABLE FILES.
+<b>PATH</b> are the list of directories that the Operating System traverses to LOCATE EXECUTABLE FILES.
 </li>
 <li>
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
@@ -83,6 +85,12 @@ Linux Console:
     <li>
 	3.5 Result: <a href="http://prntscr.com/e28ep8"><b>Welcome to Javaworld</b></a>
     </li>
+
+
+
+##
+> Câu 4. Làm thế nào để tạo ra một bản protable JAVA có thể chạy mà không cần cài đặt? (đa phần các ứng dụng Java đều có yêu cầu cài sẵn môi trường Java)
+<ul>
     <li>
     </li>
     <li>

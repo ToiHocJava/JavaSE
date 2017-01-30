@@ -33,12 +33,12 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
     <li>
 "PATH" are the list of directories that the Operating System traverses to LOCATE EXECUTABLE FILES.
     </li>
-
+    <li>
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
 export PATH=jdk/bin:$PATH
 <br>
 <a href="http://image.prntscr.com/image/80d30536b56142a6b271703d88e2e1ef.png">Linux "/etc/profile"</a>
-
+    </li>
 <b> On Windows</b>,
 <br>
 1/ <a href="http://prntscr.com/e1nnat">Computer-->Properties</a>

@@ -21,7 +21,6 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
     <li>
     JDK is "Java Development Kit". That's the software for PROGRAMMERS who want to write Java programs.
 	</li>
-
     <li>
     JRE is "Java Runtime Environment". That's the software for CONSUMERS who want to run Java programs.
     </li>
@@ -60,13 +59,9 @@ Windows CMD:
 <br>
 Linux Console: 
 <a href="http://image.prntscr.com/image/4dabcbdf506f4b36adeb1c6f03f30066.png">java -version</a>
-    <li>
-    </li>
 
-    <li>
-    </li>
-
-    <li>
-    </li>
 </ul>
-#
+
+
+##
+> Câu 3. Làm thế nào chỉ cần 1 câu lệnh có thể thực thi 1 file chứa source java được soạn từ console hoặc notepad?

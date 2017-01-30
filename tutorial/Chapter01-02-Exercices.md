@@ -30,15 +30,16 @@ mọi người trả lời trên GITHUB và paste link lên đây nhé.
 ##
 > Câu 2. Các biến môi trường PATH và CLASSPATH là gì? và được ứng dụng trong thực tế (qua nhiều hệ điều hành Windows, Linux ...) như thế nào?
 <ul>
-    <li>
+<li>
 "PATH" are the list of directories that the Operating System traverses to LOCATE EXECUTABLE FILES.
-    </li>
-    <li>
+</li>
+<li>
 <b>On Linux</b>, add a line such as the following to the end of your [~/.bashrc] or [~/.bash_profile] or [/etc/profile] file:<br>
 export PATH=jdk/bin:$PATH
 <br>
 <a href="http://image.prntscr.com/image/80d30536b56142a6b271703d88e2e1ef.png">Linux "/etc/profile"</a>
-    </li>
+</li>
+<li>
 <b> On Windows</b>,
 <br>
 1/ <a href="http://prntscr.com/e1nnat">Computer-->Properties</a>
@@ -52,7 +53,7 @@ export PATH=jdk/bin:$PATH
 4.1/ <b>PATH</b>: Add new value [;D:\Program Files\Java\jdk1.8.0_112\bin;] , without "Square brackets"
 <br>
 4.2/ <b>CLASSPATH</b>: Add new value [D:\Program Files\Java\jre1.8.0_112\lib;.;D:\Program Files\Java\jre1.8.0_112\lib\ext;] , without "Square brackets"
-
+</li>
 
 After config PATH, CLASSPATH, you can test: <br>
 Windows CMD: 

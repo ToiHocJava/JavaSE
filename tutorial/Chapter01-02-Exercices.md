@@ -69,34 +69,50 @@ Linux Console:
 ##
 > Câu 3. Làm thế nào chỉ cần 1 câu lệnh có thể thực thi 1 file chứa source java được soạn từ console hoặc notepad?
 <ul>
-    <li>
-    3.1 Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java
+<li>
+3.1 Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java
 </a>
-	</li>
-    <li>
-    3.2 Compile source code to bytecode: root@srv021:/opt/workspace# <b><font size="4" color="red">/opt/jdk1.8.0_121/bin/javac Welcome.java</font></b>
-    </li>
-    <li>
-	3.3 Created new file name <a href="http://prntscr.com/e28cpa"><b>Welcome.class</b></a>
-    </li>
-    <li>
-	3.4 Execute bytecode file: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/java Welcome</b>
-    </li>
-    <li>
-	3.5 Result: <a href="http://prntscr.com/e28ep8"><b>Welcome to Javaworld</b></a>
-    </li>
+</li>
+<li>
+3.2 Compile source code to bytecode: root@srv021:/opt/workspace# <b><font size="4" color="red">/opt/jdk1.8.0_121/bin/javac Welcome.java</font></b>
+</li>
+<li>
+3.3 Created new file name <a href="http://prntscr.com/e28cpa"><b>Welcome.class</b></a>
+</li>
+<li>
+3.4 Execute bytecode file: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/java Welcome</b>
+</li>
+<li>
+3.5 Result: <a href="http://prntscr.com/e28ep8"><b>Welcome to Javaworld</b></a>
+</li>
 </ul>
 
 
 ##
 > Câu 4. Làm thế nào để tạo ra một bản portable JAVA có thể chạy mà không cần cài đặt? (đa phần các ứng dụng Java đều có yêu cầu cài sẵn môi trường Java)
 <ul>
-    <li>
-	RESULT: <a href="https://drive.google.com/drive/folders/0B5CVqveXl6nqd2g4ejJxeDdZOXc"><b>JAVA APPS PORTABLE</b></a>
-    </li>
-	Steps:
+<li>
+RESULT: <a href="https://drive.google.com/drive/folders/0B5CVqveXl6nqd2g4ejJxeDdZOXc"><b>JAVA APPS PORTABLE</b></a>
+</li>
+Steps:
 <br>
-4.1 Created .jar file from bytecode
-    <li>
-    </li>
+Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java</a>
+<br>
+Created bytecode: /opt/jdk1.8.0_121/bin/javac -cp Welcome.java
+<br>
+4.1 Created .jar file from bytecode:
+<br>
+/opt/jdk1.8.0_121/bin/javac -cp Welcome.java
+<br>
+4.1.1 Created folder name "WelcomeJavaWorld"
+<br>
+4.1.2 Created folder name "WelcomeJavaWorld/META-INF"
+<br>
+4.1.3 Created file name "MANIFEST.MF", content:
+<br>
+Manifest-Version: 1.0
+Main-Class: Welcome
+
+<li>
+</li>
 </ul>

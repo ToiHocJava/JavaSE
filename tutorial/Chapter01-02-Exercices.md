@@ -73,7 +73,7 @@ Linux Console:
 </a>
 	</li>
     <li>
-    3.2 Compile source code to bytecode: root@srv021:/opt/workspace# <b>/opt/jdk1.8.0_121/bin/javac Welcome.java</b>
+    3.2 Compile source code to bytecode: root@srv021:/opt/workspace# <b><font size="3" color="red">/opt/jdk1.8.0_121/bin/javac Welcome.java</font></b>
     </li>
     <li>
 	3.3 Created new file name <a href="http://prntscr.com/e28cpa"><b>Welcome.class</b></a>

@@ -94,8 +94,8 @@ Linux Console:
 <li>
 RESULT: <a href="https://drive.google.com/drive/folders/0B5CVqveXl6nqd2g4ejJxeDdZOXc"><b>JAVA APPS PORTABLE</b></a>
 </li>
+<li>
 <b>Steps</b>:
-
 <br>
 4.1 Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java</a>
 <br>
@@ -123,14 +123,11 @@ Source: <a href="http://prntscr.com/e2eit3">http://prntscr.com/e2eit3</a>
 <br>
 Result, created "<b>WelcomeJavaWorld.jar</b>" file: <a href="http://prntscr.com/e2ejdt">http://prntscr.com/e2ejdt</a>
 <br>
+<br>
 Test: <a href="http://prntscr.com/e2ekgb"> http://prntscr.com/e2ekgb </a>
 <br>
 /opt/jdk1.8.0_121/bin/java -jar WelcomeJavaWorld.jar
 <br>
 Welcome to Javaworld
-
-
-<li>
 </li>
-
 </ul>

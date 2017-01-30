@@ -120,8 +120,6 @@ RESULT: <a href="https://drive.google.com/drive/folders/0B5CVqveXl6nqd2g4ejJxeDd
 <br>
 4.1 Source code: <a href="https://github.com/ToiHocJava/JavaSE/blob/master/src/Welcome.java">Welcome.java</a>
 <br>
-> https://raw.githubusercontent.com/ToiHocJava/JavaSE/master/src/Welcome.java
-<br>
 4.2 Create bytecode: <b>/opt/jdk1.8.0_121/bin/javac Welcome.java</b>
 <br>
 4.3 Create .jar file from bytecode:

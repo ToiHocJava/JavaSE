@@ -180,4 +180,16 @@ Welcome to Javaworld
 <br>
 <img src="http://image.prntscr.com/image/4a60353216584ebeaccb6cf122b32bac.png">
 </li>
+<li>
+Viết 1 lần, chạy mọi nơi, mọi nền tảng.
+</li>
+<li>
+Ngôn ngữ hướng đối tượng, nền tảng đáng tin cậy cho môi trường doanh nghiệp.
+</li>
+<li>
+Miễn phí, có cộng đồng lớn.
+</li>
+<li>
+Được các tổ chức lớn hỗ trợ như Oracle, IBM, ...
+</li>
 </ul>

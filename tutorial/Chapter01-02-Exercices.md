@@ -106,6 +106,7 @@ Linux Console:
 <br>
 <img src="http://image.prntscr.com/image/473274b5d777453f89d363c0777a781f.png">
 </li>
+<li>Result: javac Welcome.java && java Welcome</li>
 </ul>
 
 

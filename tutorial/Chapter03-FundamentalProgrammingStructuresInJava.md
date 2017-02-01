@@ -8,14 +8,23 @@ Looking at one of the simplest java programs:
 ```java
 public class FirstSample
 {
-    oublic static void main(String[] args)	
+    public static void main(String[] args)	
     {
     	System.out.println("We will not use 'Hello, World!");
     }
 }
 ```
--Keyword [public] is called an "access modifier".
-
+-Keyword [<b>public</b>] is called an "access modifier". More information in Chapter 5.
+<br>
+-Keyword [<b>class</b>] reminds you that everything in a Java program lives inside a class. More information in Chapter 4.
+<br>
+-Keyword [<b>FirstName</b>] is the name of the class. Names must begin with a letter (uppercase letter, you should use "<b>CamelCase</b>"), and after that, they can have any combination of letters and digits. The length is essentially un-limited. You cannot use a Java reserved word (such as public, class) for a class name. See Appendix A for a list of reserved words.
+<br>
+-You need to make the filename for the source code the same as the name of public class, with the extension "<b>.java</b>". Thus, you must store this code in a file called "<b>FirstSample.java</b>"
+<br>
+-To run a compiled program, the "<b>Java Virtual Machine</b>" always starts execution with the code in the <b>main</b> method in the class you indicate.
+<br>
+-According to the <b>Java Language Specificateion</b>, the <b>main</b> method must be declared "<b>public</b>"
 
 ##
 **3.2 Comments**

@@ -3,11 +3,9 @@
 
 ##
 **3.1 A Simple Java Program**
-<ul>
-<li>
-Looking at one of the simplest java programs:
-</li>
 
+Looking at one of the simplest java programs:
+<br>
 ```java
 public class FirstSample
 {
@@ -25,18 +23,6 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-
-
-
-<li>
-</li>
-
-
-
-
-<li>
-</li>
-</ul>
 
 ```ruby
 require 'redcarpet'

@@ -25,6 +25,20 @@ public class FirstSample
 -To run a compiled program, the "<b>Java Virtual Machine</b>" always starts execution with the code in the <b>main</b> method in the class you indicate.
 <br>
 -According to the <b>Java Language Specificateion</b>, the <b>main</b> method must be declared "<b>public</b>"
+<br>
+-The braces { } in the source code usually called blocks.
+<br>
+-Don't worry about the keywords [<b>static void</b>], more information in Chapter 4.
+<br>
+-We are using the "System.out" object and calling its <b>println</b> method. Notice the periods used to invoke a method, Java uses the general syntax:
+<br>
+```java
+<b>object.method(parameters)</b>
+```
+as its equivalent of a function call.
+
+
+
 
 ##
 **3.2 Comments**

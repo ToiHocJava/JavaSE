@@ -54,10 +54,18 @@ as its equivalent of a function call.
 
 -Java is a strongly typed language. This means that every variable must have a declared type. There are <u>eight</u> <b>primitive types</b> in Java.
 <br>
--
+--4 - Four of them are <b>"integer" types</b>
+<br>
+--2 - Two are <b>"floating-point number" types</b>
+<br>
+--1 - One is the <b>character type "char"</b>, used for code units in the Unicode encoding scheme.
+<br>
+--1 - One is a <b>"boolean" type</b>  for truth values.
 
 <br>
 **3.3.1 Integer Types**
+
+
 <br>
 **3.3.2 Floating-Point Types**
 <br>

@@ -7,12 +7,17 @@
 <li>
 Looking at one of the simplest java programs:
 </li>
+
 ```java
 public class FirstSample
 {
-asdasd	
+    oublic static void main(String[] args)	
+    {
+    	System.out.println("We will not use 'Hello, World!");
+    }
 }
 ```
+
 ##
 
 ```

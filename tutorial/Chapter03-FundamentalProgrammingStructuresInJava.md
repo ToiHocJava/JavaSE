@@ -3,6 +3,7 @@
 
 ##
 **3.1 A Simple Java Program**
+
 Looking at one of the simplest java programs:
 ```java
 public class FirstSample

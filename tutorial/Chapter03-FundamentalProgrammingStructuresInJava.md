@@ -4,7 +4,7 @@
 ##
 **3.1 A Simple Java Program**
 
-Looking at one of the simplest java programs:
+Looking at one of the simplest java programs, file name "<b>FirstSample.java</b>":
 ```java
 public class FirstSample
 {

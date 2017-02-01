@@ -16,11 +16,9 @@ asdasd
 ```
 ##
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+```
+function test() {
+  console.log("notice the blank line before this function?");
 }
 ```
 

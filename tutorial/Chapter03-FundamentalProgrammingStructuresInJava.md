@@ -23,6 +23,7 @@ function test() {
 ```
 
 
+
 </li>
 <li>
 </li>
@@ -33,6 +34,13 @@ function test() {
 <li>
 </li>
 </ul>
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 
 ##
 **3.2 Comments**

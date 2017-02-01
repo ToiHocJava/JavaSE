@@ -33,7 +33,7 @@ public class FirstSample
 -We are using the "System.out" object and calling its <b>println</b> method. Notice the periods used to invoke a method, Java uses the general syntax:
 <br>
 ```java
-<b>object.method(parameters)</b>
+object.method(parameters)
 ```
 as its equivalent of a function call.
 

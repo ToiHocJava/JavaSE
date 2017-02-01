@@ -6,10 +6,9 @@
 <ul>
 <li>
 Looking at one of the simplest java programs:
-<br>
-
-
-```public class FirstSample
+</li>
+```java
+public class FirstSample
 {
 asdasd	
 }
@@ -24,7 +23,6 @@ function test() {
 
 
 
-</li>
 <li>
 </li>
 

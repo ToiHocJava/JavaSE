@@ -38,19 +38,24 @@ object.method(parameters)
 as its equivalent of a function call.
 
 
-
-
 ##
 **3.2 Comments**
 
 -Comments in Java, as in most programming languages.
 <br>
--The most common form is a ```//<comment 1 line is in here>``` for 1 line
+--For 1 line: ```//<comment 1 line is in here>```
 <br>
 -For multi line:
 ```/**<comment multi line is in here>*/```
+
+
 ##
 **3.3 Data Types**
+
+-Java is a strongly typed language. This means that every variable must have a declared type. There are <u>eight</u> <b>primitive types</b> in Java.
+<br>
+-
+
 <br>
 **3.3.1 Integer Types**
 <br>

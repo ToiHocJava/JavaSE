@@ -43,6 +43,12 @@ as its equivalent of a function call.
 ##
 **3.2 Comments**
 
+-Comments in Java, as in most programming languages.
+<br>
+-The most common form is a // for 1 line
+<br>
+-For multi line:
+```/**<comment multi line is in here>*/```
 ##
 **3.3 Data Types**
 <br>

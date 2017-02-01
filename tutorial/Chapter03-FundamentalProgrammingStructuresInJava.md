@@ -43,7 +43,7 @@ as its equivalent of a function call.
 
 -Comments in Java, as in most programming languages.
 <br>
---For 1 line: ```//<comment 1 line is in here>```
+-For 1 line: ```//<comment 1 line is in here>```
 <br>
 -For multi line:
 ```/**<comment multi line is in here>*/```
@@ -64,6 +64,16 @@ as its equivalent of a function call.
 
 <br>
 **3.3.1 Integer Types**
+
+-The integer types are for numbers without "factional parts". 
+<br>
+-Negative values are allowed.
+<br>
+
+Type | Storage Requirement | Range (inclusive)
+--- | --- | ---
+int | 4 bytes | –2,147,483,648 to 2,147,483, 647 (just over 2 billion)
+
 
 
 <br>

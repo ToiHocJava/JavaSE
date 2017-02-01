@@ -1,10 +1,53 @@
 ##Chapter 03: Fundamental Programming Structures In Java##
 ########################################################
 
+##
 **3.1 A Simple Java Program**
+<ul>
+<li>
+Looking at one of the simplest java programs:
+<br>
 
+
+```public class FirstSample
+{
+asdasd	
+}
+```
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
+```
+
+```xml
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+</xs:schema>
+```
+
+</li>
+<li>
+</li>
+
+
+
+
+<li>
+</li>
+</ul>
+
+##
 **3.2 Comments**
 
+##
 **3.3 Data Types**
 <br>
 **3.3.1 Integer Types**
